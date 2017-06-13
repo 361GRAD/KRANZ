@@ -1,0 +1,12 @@
+body {
+    background: black;
+    color: white;
+}
+
+h1 { 
+    font-family: Arial;
+    display: block;
+    font-size: 5rem;
+    font-weight: 800;
+    line-height: 1;
+}
